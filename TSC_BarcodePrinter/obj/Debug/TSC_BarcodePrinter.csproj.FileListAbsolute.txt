@@ -1,0 +1,21 @@
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.exe.config
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.csprojResolveAssemblyReference.cache
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.Properties.Resources.resources
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.csproj.GenerateResource.Cache
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.exe
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.pdb
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.exe
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.pdb
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.Form1.resources
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.exe.licenses
+C:\Users\PC1\Desktop\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\DBForm.dll
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.exe.config
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.exe
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\bin\Debug\TSC_BarcodePrinter.pdb
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.csprojResolveAssemblyReference.cache
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.Form1.resources
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.Properties.Resources.resources
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.csproj.GenerateResource.Cache
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.exe.licenses
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.exe
+C:\Users\jaeyoung\Desktop\Git_repo\TSC BarcodePrinter\TSC 바코드 프린터\TSC_BarcodePrinter\TSC_BarcodePrinter\obj\Debug\TSC_BarcodePrinter.pdb
